@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "chatbotwithamplify_identitypool_beaa8ca0",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "chatbotwithamplify",
+    "sharedId": "beaa8ca0",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
