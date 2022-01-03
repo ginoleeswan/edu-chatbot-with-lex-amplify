@@ -85,8 +85,8 @@ npm run test
 👤 **Gino Swanepoel**
 
 &nbsp; Twitter: [@mrginolee](https://twitter.com/mrginolee)\
- &nbsp; Github: [@ginoleeswan](https://github.com/ginoleeswan)\
- &nbsp; LinkedIn: [@ginoswanepoel](https://linkedin.com/in/ginoswanepoel)
+&nbsp; Github: [@ginoleeswan](https://github.com/ginoleeswan)\
+&nbsp; LinkedIn: [@ginoswanepoel](https://linkedin.com/in/ginoswanepoel)
 
 </div>
 
