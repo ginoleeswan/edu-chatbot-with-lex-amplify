@@ -21,6 +21,12 @@ const Chatbot = (props: Props) => {
 
   return (
     <AmplifyChatbot
+      style={{
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
+        display: "flex",
+      }}
       botName="BookTrip_dev"
       botTitle="My Educational Chatbot"
       welcomeMessage="Hi! How can I help you?"
