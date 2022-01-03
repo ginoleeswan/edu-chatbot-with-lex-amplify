@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- <h2 align="center">🥿  <a href="https://ginoleeswan.github.io/dotslash-frontend-test/">See Live</a> 🥿 </h2> -->
+<h2 align="center">📚 <a href="https://master.dhacl3sygjd72.amplifyapp.com/">See Live</a> 📚</h2>
 
 <!-- <p align="center">
   <a href="https://ginoleeswan.github.io/dotslash-frontend-test/">
@@ -34,14 +34,14 @@
 ## 🔮 &nbsp; Future Features
 
 - 💻 &nbsp; Implement backend to pull student/institutional information
-- 💻 &nbsp; Athentication of students / faculty of institution
-- 🌐 &nbsp; Style refactoring to fit desktop application
-- 🌐 &nbsp; Native integration into a mobile application
+- 🔒 &nbsp; Athentication of students / faculty of institution
+- 🖌 &nbsp; Style refactoring to fit desktop application
+- 📱 &nbsp; Native integration into a mobile application
 
 <h2 align="right">🚀 &nbsp; Deployment</h2>
 <div align="right">
 
-Deployed with [AWS Amplify](https://ginoleeswan.github.io/dotslash-frontend-test/)
+Deployed with [AWS Amplify](https://master.dhacl3sygjd72.amplifyapp.com/)
 
 </div>
 
