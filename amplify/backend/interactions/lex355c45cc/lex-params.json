@@ -1,0 +1,25 @@
+{
+    "resourceName": "lex355c45cc",
+    "botName": "EducationalChatbot",
+    "intents": [
+        {
+            "slots": [
+                {
+                    "name": "StudentNumber",
+                    "type": "AMAZON.AlphaNumeric",
+                    "prompt": "What is your student number?",
+                    "required": true,
+                    "customType": false
+                }
+            ],
+            "utterances": [
+                "What is my next exam?"
+            ],
+            "intentName": "GetExamInfo",
+            "newSlotTypes": []
+        }
+    ],
+    "outputVoice": "Matthew",
+    "sessionTimeout": 5,
+    "coppa": false
+}

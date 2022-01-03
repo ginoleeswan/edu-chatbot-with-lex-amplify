@@ -13,12 +13,17 @@
     },
     "categories": {
       "auth": {
-        "undefined": {}
+        "undefined": {},
+        "chatbotwithamplify": {}
       },
       "interactions": {
         "lex4b84bd6e": {
           "deploymentBucketName": "amplify-chatbotwithamplify-dev-202123-deployment",
           "s3Key": "amplify-builds/lex4b84bd6e-7439647972486b6f7068-build.zip"
+        },
+        "lex355c45cc": {
+          "deploymentBucketName": "amplify-chatbotwithamplify-dev-202123-deployment",
+          "s3Key": "amplify-builds/lex355c45cc-335a5a644c447371736a-build.zip"
         }
       }
     }

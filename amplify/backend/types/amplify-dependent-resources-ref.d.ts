@@ -10,6 +10,11 @@ export type AmplifyDependentResourcesAttributes = {
             "Region": "string",
             "BotName": "string",
             "FunctionArn": "string"
+        },
+        "lex355c45cc": {
+            "Region": "string",
+            "BotName": "string",
+            "FunctionArn": "string"
         }
     }
 }
