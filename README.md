@@ -21,20 +21,22 @@
 
 <div align="right">
 
-&nbsp; Loved working on this cool project for DotSlash!\
-&nbsp; My **React Bootstrap** skills were put to the test.\
-&nbsp; I found the approach a great intuitive way to add quick pre-made **responsive** components.\
-&nbsp; The tag syntax was quite similar to React Native.
+&nbsp; An educational chatbot made with ReactJS, AWS Amplify & Amazon Lex\
+&nbsp; The bot was made and setup using the **Amplify CLI**.\
+&nbsp; Adding intents is quite simple and intuitive when using the AWS console.
 
-&nbsp; This site also tested my skills in adapting & optimizing a responsive web page to fit on **mobile screens**.\
-&nbsp; After a bit of tweaking I settled on a simple vertical mobile view design where the product information stacks underneath.
+&nbsp; Changes on the backend and front are able to be updated using 'amplify push' or 'amplify pull' in the CLI.\
+&nbsp; There might be a need for an attachment **relational type database** or No-SQL database to pull educational information about a school and its students. .\
+&nbsp; This is not a finished product, only a **template** on which to build a functioning Edu Chatbot.
 
 </div>
 
 ## 🔮 &nbsp; Future Features
 
-- 💻 &nbsp; Implement simple backend through AWS / Azure / headless CMS / Google Firebase
-- 🌐 &nbsp; Complete the full strucutre of website
+- 💻 &nbsp; Implement backend to pull student/institutional information
+- 💻 &nbsp; Athentication of students / faculty of institution
+- 🌐 &nbsp; Style refactoring to fit desktop application
+- 🌐 &nbsp; Native integration into a mobile application
 
 <h2 align="right">🚀 &nbsp; Deployment</h2>
 <div align="right">
