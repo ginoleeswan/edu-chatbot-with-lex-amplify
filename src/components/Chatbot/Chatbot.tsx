@@ -27,7 +27,7 @@ const Chatbot = (props: Props) => {
         alignItems: "center",
         display: "flex",
       }}
-      botName="BookTrip_dev"
+      botName="EducationalChatbot_dev"
       botTitle="My Educational Chatbot"
       welcomeMessage="Hi! How can I help you?"
     />
